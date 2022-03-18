@@ -4272,8 +4272,9 @@ a.logo:hover{
     left: 3px;
     color: #fff;
     text-align: center;
-    line-height: 23px;
+    line-height: 25px;
 }
+
 .ci-icon:before{
     content: " ";
     width: 100%;
@@ -4295,6 +4296,7 @@ a.logo:hover{
     transform: rotate(45deg);
 
 }
+
 .ci-icon i,
 .ci-icon span{
     position: relative;
@@ -4302,8 +4304,8 @@ a.logo:hover{
 .ci-title{
     margin-bottom: 1px;
     color: #777;
-    font-size: 12px;
-    font-weight: 400;
+    font-size: 14px;
+    font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 0.3em;
 }
